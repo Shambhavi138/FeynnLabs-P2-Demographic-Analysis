@@ -1,0 +1,2 @@
+DEMOGRAPHIC ANALYSIS OF EV CONSUMERS<br>
+This repository contains demographic analysis of electric vehicle (EV) consumers, focusing on factors such as age, total salary, and other relevant demographic variables. The analysis aims to provide insights into the characteristics of individuals who are adopting EVs, thereby aiding in understanding market trends and informing strategic decisions for stakeholders in the electric vehicle industry.
